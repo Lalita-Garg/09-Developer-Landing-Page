@@ -17,15 +17,15 @@ This is a beautiful  Responsive website  created by using  HTML and  CSS.
 ***
 ## Desktop view
 
+https://user-images.githubusercontent.com/111582082/193641191-4bf4ed67-0d62-4f13-a15a-d261c9fdeaf1.mp4
 
 ## Tablet View
 
+https://user-images.githubusercontent.com/111582082/193641291-f79148ea-3ab1-4a55-b70b-82ed451ccbb8.mp4
 
 ## Mobile View
 
-
-
-
+https://user-images.githubusercontent.com/111582082/193641689-d86e6efb-5617-469a-bbd9-f0c1b4c07629.mp4
 
 ## Technologies Used 
 ***
